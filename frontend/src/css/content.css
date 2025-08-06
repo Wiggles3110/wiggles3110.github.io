@@ -1,0 +1,31 @@
+.content-info {
+  background-color: rgba(0, 0, 0, 0.7); 
+  border: 2px solid #ff4500;           
+  color: white;
+  padding: 3rem;
+  margin: 2rem auto;
+  border-radius: 1rem;               
+  width: 90%;
+  max-width: 1200px;
+  text-align: center;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
+  transition: transform 0.3s ease;
+  font-size: 1.5rem;
+}
+
+.content-info:hover {
+  /*transform: translateY(-5px); */
+  width: calc(100% + 10px);
+  max-width: calc(1200px + 10px);
+}
+
+.content-info h3 {
+  margin-bottom: 2rem;
+  font-size: 2rem;
+  color: #cf3700; /* optional: make title match border */
+}
+
+.content-info p {
+  font-size: 1.25rem;
+  line-height: 1.6;
+}

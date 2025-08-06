@@ -40,3 +40,19 @@
 .read-the-docs {
   color: #888;
 }
+
+.background {
+  background-image: url('/src/assets/backgroundImage.jpg'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
+  min-height: 200vh;
+
+  color: white;
+
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  
+}
