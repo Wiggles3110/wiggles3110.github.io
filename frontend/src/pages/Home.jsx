@@ -1,5 +1,8 @@
 import Content from "../components/content";
 import {useState} from "react";
+import watercolor from "../assets/watercolorproject.jpg";
+import inkpen from "../assets/inkpenproject.jpg";
+import value from "../assets/valuedrawing.jpg";
 
 function Home() {
     const cont = [
@@ -59,11 +62,7 @@ function Home() {
     },
     ];
 
-    const art = [
-        "/src/assets/watercolorproject.jpg",
-        "/src/assets/inkpenproject.jpg",
-        "/src/assets/valuedrawing.jpg",
-    ];
+    const art = [watercolor, inkpen, value];
 
     return (
         <div> 
