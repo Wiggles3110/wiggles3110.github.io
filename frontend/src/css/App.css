@@ -47,8 +47,8 @@
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  
-  min-height: 200vh;
+  padding-bottom: 4rem;
+  min-height: 93vh;
 
   color: white;
 

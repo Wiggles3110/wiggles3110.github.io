@@ -22,10 +22,40 @@
 .content-info h3 {
   margin-bottom: 2rem;
   font-size: 2rem;
-  color: #cf3700; /* optional: make title match border */
+  color: #cf3700; 
 }
 
 .content-info p {
+  
   font-size: 1.25rem;
   line-height: 1.6;
+  margin-left: 100px;
+  margin-right: 100px;
+  
+
+}
+.content-info:hover p{
+  margin-left: 105px;
+  margin-right: 105px;
+}
+
+.art-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.art-image {
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+  border-radius: 0.75rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease;
+}
+
+.art-image:hover {
+  transform: scale(1.05);
 }
