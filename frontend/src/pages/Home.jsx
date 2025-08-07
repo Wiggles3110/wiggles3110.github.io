@@ -29,11 +29,16 @@ function Home() {
         {title: "Experience", text: 
             (
             <>
-            NASA Psyche Educational Simulation<br/>
+            <a href="https://psyche.ssl.berkeley.edu/get-involved/capstone-projects/capstone-projects-iridium-class/m-type-asteroid-sampling-simulator-asu-a/"> 
+            NASA Psyche Educational Simulation</a>
+            <br/>
             As part of a collaborative capstone project, I helped develop an educational Unity simulation for NASA’s
              Psyche mission. I worked on rover movement, mission scripting, orbital camera controls, and UI design to 
              create an engaging and interactive experience. This project allowed me to deepen my skills in C# and Unity
               while contributing to a real-world outreach effort.
+            <br/>
+            <a href="https://missiontopsyche-iridium.github.io/iridium_22a_m-type_sim-asu/"> 
+            <u>PLAY IT HERE!</u></a>
             <br/><br/>
             React Web Project | Solo <br/>
             I designed and developed this website using React and styled it with custom CSS. Built with Vite, the site serves
