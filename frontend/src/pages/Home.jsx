@@ -10,17 +10,16 @@ function Home() {
             title: "About Me", 
             text: (
             <>
-            Howdy! I'm Will, a recent Computer Science graduate based in hot city of Phoenix, Arizona. I earned my Bachelor 
-            of Science in Computer Science, graduating summa cum laudefrom Arizona State University,
-             along with an Associate's degree in Mathematics and Science.
+            Howdy! I’m Will, a recent Computer Science graduate based in the sunny city of Phoenix, Arizona.
+             I earned my Bachelor of Science in Computer Science, graduating summa cum laude from Arizona State 
+             University, along with an Associate’s degree in Mathematics and Science.
             <br/><br/>
-            As a kid, I was always interested in creating new things. I enjoyed creating art, building legos, and crafting out of
-            paper. This creativity has led me to my passion for programming and problem solving. One such example is this website,
-            which was built using React, and it's just one example of how much I enjoy creating and experimenting with code. 
-            I’ve gained hands-on experience across a variety of languages, including C++, Java, Python, and C#.
+            From a young age, I have been passionate about creating. I enjoyed drawing, building with LEGO,
+             and crafting from paper. That same creativity now fuels my love for programming and problem solving. 
+             This website, built with React, is just one example of how I enjoy experimenting with code and bringing ideas to life.
              <br/><br/>
-            Whether I’m writing code, designing interactive systems, or analyzing data, I approach every challenge with curiosity,
-             focus, and a commitment to learning.
+            I have hands-on experience with a variety of languages, including C++, Java, Python, and C#. Whether I am developing software,
+             designing interactive systems, or analyzing data, I approach every challenge with curiosity, focus, and a drive to keep learning.
             <br/><br/>
             Thanks for stopping by!
             </>
@@ -51,17 +50,17 @@ function Home() {
             Outside of work, I've taken on the hobby of practicing drawing. Whether it's sketching, painting, or 
             digital illustration, 
             I find the process both relaxing and fulfilling. It gives me a chance to express ideas visually, experiment 
-            with color and form, and continually challenge myself to improve. Art has become a personal way to unwind and 
-            stay inspired.
+            with color and form, and continually challenge myself to improve. Art has become a personal way to unwind while 
+            staying inspired and creative.
             </>
         ),
         },
         {title: "Future Plans", text: (
             <> 
-            In the near future, I plan to develop both a Metroidvania and a turn-based RPG, something I've always wanted to do 
-            since a young age. These projects will allow me to utilize my art and programming abilities, giving me full creative control
-             over the development. These games will be a long-term endeavor and a personal expression of everything I've learned and love 
-             about game development and story writing.
+            In the near future, I plan to develop two games I have dreamed about making since childhood: a Metroidvania, 
+            a genre focused on exploration and unlocking new areas through abilities, and a turn-based RPG, where strategy
+             and story take center stage. These projects will let me combine my art and programming skills, giving me full
+              creative control and serving as a long-term expression of my passion for game development and storytelling.
             </>
         ),
     },

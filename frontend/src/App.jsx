@@ -13,12 +13,12 @@ function App() {
     <div>
       <Navbar />
       <div className="background">
-      <main className="main-content"> 
-        <Routes>
-          <Route path="/" element={<Home />}/>
-          <Route path="/contacts" element={<Contacts />}/>
-        </Routes>
-      </main>
+        <main className="main-content"> 
+          <Routes>
+            <Route path="/" element={<Home />}/>
+            <Route path="/contacts" element={<Contacts />}/>
+          </Routes>
+        </main>
       </div>
     </div>
   );
